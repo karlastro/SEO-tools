@@ -1,0 +1,5 @@
+{
+  "name": "WP Plugin Auditor",
+  "description": "An AI-powered dashboard that analyzes your WordPress plugin stack for performance bottlenecks, redundant functionality, and bloat. It recommends lighter alternatives and manual code replacements.",
+  "requestFramePermissions": []
+}
